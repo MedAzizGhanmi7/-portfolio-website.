@@ -10,7 +10,7 @@ This is a **personal portfolio website** showcasing projects, skills, and experi
 - **Smooth Navigation**: Clean UI for a seamless browsing experience.
 
 ## Screenshot
-![Portfolio Website Screenshot](app/images/portfolio%20screenshot.png)
+![Portfolio Website Screenshot](images/portfolio%20screenshot.png)
 
 ## Technologies Used
 - **HTML5** for structure.
