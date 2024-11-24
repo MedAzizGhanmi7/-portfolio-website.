@@ -19,4 +19,6 @@ This is a **personal portfolio website** showcasing projects, skills, and experi
 - **Boxicons** for icons.
 - **Google Fonts** for typography.
 
+## Live Link
 
+https://medazizghanmi7.github.io/-portfolio-website./
